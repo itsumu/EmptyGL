@@ -1,0 +1,11 @@
+# Config files
+.idea
+
+# Build files
+cmake-build-debug
+
+# Data
+data/*
+
+# Temp files
+*.cpp.swp
